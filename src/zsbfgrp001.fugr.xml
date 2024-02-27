@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>SB Function Group</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZSBFGRP001TOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZSBFGRP001</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>Y_SB_FM001</FUNCNAME>
+     <SHORT_TEXT>ZSBFM001</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
